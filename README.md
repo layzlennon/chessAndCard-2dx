@@ -7,3 +7,4 @@
 4. [纯cocos2d-lua编写的麻将游戏](https://github.com/yuanfengyun/mj_client)
 5. [cocos2dx-lua client for skynet, pbc 示例](https://github.com/gameloses/cocos2dx_lua_skynet_client)
 6. [cocos2dx 斗地主客户端（测试服务器性能）](https://github.com/gameloses/doudizhu)
+7. [Cocos Creator 德州扑克](https://github.com/tiancityycf/cocos)
